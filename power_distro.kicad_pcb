@@ -155,6 +155,7 @@
 		(property "Value" "Polyfuse"
 			(at 2.55 3.6 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "39a0efcb-e2e5-4bae-9cb2-fccfe49d315c")
 			(effects
 				(font
@@ -339,6 +340,7 @@
 		(property "Value" "Conn_01x02"
 			(at 2.54 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a1c491c5-7685-4235-b991-bae1b5d6f3f5")
 			(effects
 				(font
@@ -1203,6 +1205,7 @@
 		(property "Value" "Polyfuse"
 			(at 2.5 3.5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ba97c8f0-de6b-460c-ba01-71c3da43ce7b")
 			(effects
 				(font
@@ -1697,6 +1700,7 @@
 		(property "Value" "Polyfuse"
 			(at 2.5 3 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "6ff14a90-9f7a-40dd-9219-db1a39ac04f2")
 			(effects
 				(font
@@ -1880,6 +1884,7 @@
 		(property "Value" "Conn_01x02"
 			(at 2.54 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "801e940b-3814-4b79-aead-067c57d89c4a")
 			(effects
 				(font
@@ -2366,6 +2371,7 @@
 		(property "Value" "Conn_01x02"
 			(at 2.54 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "f95f4587-52f8-4351-bc11-748d36b40dd1")
 			(effects
 				(font
@@ -2921,6 +2927,7 @@
 		(property "Value" "Polyfuse"
 			(at 2.05 3.2 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "a52b97b1-2e33-475d-8f1f-611c429b98c3")
 			(effects
 				(font
@@ -3104,6 +3111,7 @@
 		(property "Value" "Conn_01x02"
 			(at 2.54 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "ef6e5db4-3dbe-4e7d-be7d-64a66613bf78")
 			(effects
 				(font
@@ -4276,6 +4284,7 @@
 		(property "Value" "Polyfuse"
 			(at 2.5 3 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "e93f9297-5632-48f7-b024-a8634df5d33f")
 			(effects
 				(font
@@ -4459,6 +4468,7 @@
 		(property "Value" "Conn_01x02"
 			(at 2.54 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "59660a75-3afa-4fb7-aa8f-fb024850af7b")
 			(effects
 				(font
@@ -4791,6 +4801,7 @@
 		(property "Value" "Polyfuse"
 			(at 2.55 3.1 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "7e506fe1-00e4-47e1-8967-3edc8fc8cbc7")
 			(effects
 				(font
@@ -5062,6 +5073,7 @@
 		(property "Value" "Polyfuse"
 			(at 2.55 3.1 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "681c7111-3b09-4ec3-8138-f5cddf20b1d3")
 			(effects
 				(font
@@ -5246,6 +5258,7 @@
 		(property "Value" "Polyfuse"
 			(at 2.5 3 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "0388ea2a-baf2-4278-842e-adc5051c410f")
 			(effects
 				(font
@@ -6646,6 +6659,7 @@
 		(property "Value" "Conn_01x02"
 			(at 2.54 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "2de2d293-2918-430b-b124-26baf843897e")
 			(effects
 				(font
@@ -6978,6 +6992,7 @@
 		(property "Value" "Conn_01x02"
 			(at 2.54 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "18690858-c9c5-4f75-9851-70d2961bd4f1")
 			(effects
 				(font
@@ -7310,6 +7325,7 @@
 		(property "Value" "Conn_01x02"
 			(at 2.54 5 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "15c6971a-5170-400d-8366-6abdfedc9d2a")
 			(effects
 				(font
@@ -7642,6 +7658,7 @@
 		(property "Value" "Conn_01x02"
 			(at 2.54 5 90)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "51834e71-16ce-479d-82ea-c52421e42500")
 			(effects
 				(font
