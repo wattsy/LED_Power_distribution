@@ -1,0 +1,5 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R6,R2,R5,R3,Re1,R4,R8,R7";"R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical";8;"R1k";;;
+2;"D5,D2,D3,D4,D8,D7,D1,D6";"LED_D3.0mm";8;"LED";;;
+3;"J8,J4,J3,J5,J6,J7,J_IN1,J1,J2";"PhoenixContact_MSTBVA_2,5_2-G-5,08_1x02_P5.08mm_Vertical";9;"Conn_01x02";;;
+4;"F8,F4,F6,F5,F7,F3,F2,F1";"Fuse_Bourns_MF-RHT500";8;"Polyfuse";;;
