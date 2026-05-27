@@ -4042,7 +4042,7 @@
 			)
 		)
 		(property "Value" "R1k"
-			(at 1.27 2.37 0)
+			(at -0.505 2.37 0)
 			(layer "F.SilkS")
 			(uuid "e8c36c1b-fb8d-4f57-b2dd-d1c7f3baec9b")
 			(effects
@@ -8017,6 +8017,18 @@
 		)
 	)
 	(gr_text "-"
+		(at 137.5 102.5 90)
+		(layer "F.SilkS")
+		(uuid "18e441ae-9276-498f-a141-c58624df236f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify right top)
+		)
+	)
+	(gr_text "-"
 		(at 149.5 104 90)
 		(layer "F.SilkS")
 		(uuid "1b8da863-3277-4cf7-b36f-a3a09c6887ad")
@@ -8182,6 +8194,18 @@
 				(thickness 0.1)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text "+"
+		(at 137.5 117.5 0)
+		(layer "F.SilkS")
+		(uuid "ea3b95ef-9577-42b7-a13a-c960b1ec55c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left top)
 		)
 	)
 	(gr_text "+"
